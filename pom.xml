@@ -19,8 +19,13 @@
     <dependency>
       <artifactId>spring-boot-starter-web</artifactId>
       <groupId>org.springframework.boot</groupId>
+      <version>3.1.0</version>
     </dependency>
-
+    <dependency>
+      <artifactId>spring-boot-starter-thymeleaf</artifactId>
+      <groupId>org.springframework.boot</groupId>
+      <version>3.1.0</version>
+    </dependency>
     <dependency>
       <artifactId>h2</artifactId>
       <groupId>com.h2database</groupId>
@@ -29,6 +34,7 @@
     <dependency>
       <artifactId>spring-boot-starter-test</artifactId>
       <groupId>org.springframework.boot</groupId>
+      <version>3.1.0</version>
       <scope>test</scope>
     </dependency>
   </dependencies>

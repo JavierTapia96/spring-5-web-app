@@ -66,7 +66,6 @@ public class AuthorEntity {
             "id=" + id +
             ", firstName='" + firstName + '\'' +
             ", lastName='" + lastName + '\'' +
-            ", bookEntities=" + bookEntities +
             '}';
     }
 
